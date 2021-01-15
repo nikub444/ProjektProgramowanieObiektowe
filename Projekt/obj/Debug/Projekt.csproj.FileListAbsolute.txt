@@ -1,0 +1,37 @@
+C:\Users\alina\Desktop\Projekt PO\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\alina\Desktop\Projekt PO\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\alina\Desktop\Projekt PO\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\alina\Desktop\Projekt PO\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\Projekt PO\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\Projekt PO\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\alina\Desktop\Projekt PO\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\Projekt\bin\Debug\Projekttt.xml
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\Projekt\bin\Debug\Projekttt.xml
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\Projekt\bin\Debug\Projekt.exe
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\Projekt\bin\Debug\Projekt.pdb
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\Projekt\obj\Debug\Projekt.exe
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\Projekt\obj\Debug\Projekt.pdb

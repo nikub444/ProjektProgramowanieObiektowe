@@ -1,0 +1,136 @@
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\bin\Debug\Projekt.exe
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\bin\Debug\Projekt.pdb
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\bin\Debug\Projekt.exe.config
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\App.g.cs
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\listarezerwacji.g.cs
+C:\Users\alina\Desktop\Projekt PO\Projekt\WpfApp1\obj\Debug\listarezerwacji.baml
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\bin\Debug\Projekt.exe
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\bin\Debug\Projekt.pdb
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\bin\Debug\Projekt.exe.config
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\listarezerwacji.g.cs
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\App.g.cs
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\listarezerwacji.baml
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\Sale.g.cs
+C:\Users\alina\Desktop\apdate projekt\Projekt PO\Projekt\WpfApp1\obj\Debug\Sale.baml
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\bin\Debug\Projekt.exe
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\bin\Debug\Projekt.pdb
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\bin\Debug\Projekt.exe.config
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\listarezerwacji.g.cs
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\Sale.g.cs
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\listarezerwacji.baml
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\Sale.baml
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Kuba\source\repos\nowy prawie zrobiony (1)\Projekt\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\bin\Debug\Projekt.exe
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\bin\Debug\Projekt.pdb
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\bin\Debug\Projekt.exe.config
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\listarezerwacji.g.cs
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\Sale.g.cs
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\listarezerwacji.baml
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\Sale.baml
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Dell\Desktop\Projekt-20210109T150621Z-001\Projekt\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\bin\Debug\Projekt.exe
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\bin\Debug\Projekt.pdb
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\bin\Debug\Projekt.exe.config
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\listarezerwacji.g.cs
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\Sale.g.cs
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\App.g.cs
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\listarezerwacji.baml
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\Sale.baml
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\alina\Desktop\projekt sprawdzam dla klaudi\ProjektN\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\bin\Debug\Projekt.exe
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\bin\Debug\Projekt.pdb
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\bin\Debug\Projekt.exe.config
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\listarezerwacji.g.cs
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\Sale.g.cs
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\listarezerwacji.baml
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\Sale.baml
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Kuba\source\repos\ProjektN\WpfApp1\obj\Debug\WpfApp1.pdb

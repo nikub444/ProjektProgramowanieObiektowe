@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Projekt</name>
+    </assembly>
+    <members>
+        <member name="T:Projekt.KompleksBudynkow">
+            <summary>Klasa sluzaca do obslugi sal w budynkach</summary>
+        </member>
+        <member name="P:Projekt.KompleksBudynkow.ListaSal">
+            <summary>zawiera liste sal</summary>
+        </member>
+        <member name="M:Projekt.KompleksBudynkow.#ctor">
+            <summary>inicjuje nowe dane w liscie sal dla klasy <see cref="T:Projekt.KompleksBudynkow" /></summary>
+        </member>
+        <member name="M:Projekt.KompleksBudynkow.DodajSale(Projekt.Sala)">
+            <summary>dodaje sale do listy</summary>
+        </member>
+        <member name="M:Projekt.KompleksBudynkow.UsunSale(Projekt.Sala)">
+            <summary>usuwa sale z listy</summary>
+        </member>
+        <member name="M:Projekt.KompleksBudynkow.FiltrujPremium(System.Int32)">
+            <summary>Filtruje liste sal, czy sa PREMIUM czy NORMAL</summary>
+            <returns>lista sal PREMIUM lub lista sal NORMAL</returns>
+        </member>
+        <member name="M:Projekt.KompleksBudynkow.FiltrujPojemnosc(System.Int32,System.Collections.Generic.List{Projekt.Sala})">
+            <summary>filtruje liste sal, po pojemnosci</summary>
+            <returns>lista sal z oczekiwana pojemnoscia</returns>
+        </member>
+        <member name="M:Projekt.KompleksBudynkow.ZapiszXML(System.String)">
+            <summary>zapisuje  dane klasy do pliku XML</summary>
+        </member>
+        <member name="M:Projekt.KompleksBudynkow.OdczytajXML(System.String)">
+            <summary>Odczytuje plik XML</summary>
+        </member>
+        <member name="M:Projekt.KompleksBudynkow.ToString">
+            <summary>konwertuje obiekty na ciag znakow reprezentujacych liste sal</summary>
+        </member>
+        <member name="T:Projekt.Pomieszczenie">
+            <summary>klasa abstrakcyjna opisujaca pomieszczenia</summary>
+        </member>
+        <member name="P:Projekt.Pomieszczenie.Metraz">
+            <summary>zawiera wlasciwosci metrazu pomieszczenia.</summary>
+            <value>metraz.</value>
+        </member>
+        <member name="P:Projekt.Pomieszczenie.Pietro">
+            <summary>zawiera wlasciwosci pietra na ktorym znajduje sie pomieszczenie</summary>
+            <value>pietro.</value>
+        </member>
+        <member name="P:Projekt.Pomieszczenie.Kodpomieszczenia">
+            <summary>zawiera wlasciwosci kodu pomieszczenia</summary>
+            <value>kod pomiesczenia.</value>
+        </member>
+        <member name="P:Projekt.Pomieszczenie.Biezacynumer">
+            <summary>watrosc statyczna potrzebna do utworzzenia kodu pomieszczenia</summary>
+        </member>
+        <member name="M:Projekt.Pomieszczenie.#ctor(System.Double,System.Int32)">
+            <summary>konstruktor, inicjuje dane dla klasy <see cref="T:Projekt.Pomieszczenie" /></summary>
+            <param name="metraz">metraz.</param>
+            <param name="pietro">pietro.</param>
+        </member>
+        <member name="T:Projekt.Rezerwacja">
+            <summary>Klasa opisujaca rezerwacje, 
+            obsluguje interfejs ICloneable, co pozwala tworzyc nowe rezerwacje o takiej samej wartosci(skopiowane), 
+            obsluguje interfejs IComparable, co pozwala na porownanie wartosci rezerwacji
+            </summary>
+        </member>
+        <member name="P:Projekt.Rezerwacja.DataOd">
+            <summary>zawiera wlasciwosci daty rozpoczecia rezerwacji</summary>
+            <value>data od.</value>
+        </member>
+        <member name="P:Projekt.Rezerwacja.DataDo">
+            <summary>zawiera wlasciwosci daty zakonczenia rezerwacji</summary>
+            <value>data do</value>
+        </member>
+        <member name="P:Projekt.Rezerwacja.Imie">
+            <summary>zawiera wlasciwosci imienia rezerwujacego</summary>
+            <value>imie.</value>
+        </member>
+        <member name="P:Projekt.Rezerwacja.Nazwisko">
+            <summary>zawiera wlasciwosci nazwiska rezerwujacego</summary>
+            <value>nazwisko</value>
+        </member>
+        <member name="P:Projekt.Rezerwacja.Kodzarezerwowanejsali">
+            <summary>zawiera wlasciwosci o kodzie zarezerwowanej sali</summary>
+            <value>kodzarezerwowanejsali.</value>
+        </member>
+        <member name="P:Projekt.Rezerwacja.BiezacyNumer">
+            <summary> statyczna zmienna potrzebna do informacji na temat numeru rezerwacji </summary>
+            <value>biezacy numer.</value>
+        </member>
+        <member name="P:Projekt.Rezerwacja.NumerRezerwacji">
+            <summary>zawiera wlasciwosci numeru rezerwacji</summary>
+            <value>numer rezerwacji.</value>
+        </member>
+        <member name="M:Projekt.Rezerwacja.#ctor">
+            <summary>konstruktor  danych klasy <see cref="T:Projekt.Rezerwacja" />,</summary>
+        </member>
+        <member name="M:Projekt.Rezerwacja.#ctor(System.String,System.String,System.String,System.String,Projekt.Sala)">
+            <summary>konstruktor danych klasy <see cref="T:Projekt.Rezerwacja" />,</summary>
+            <param name="dataod">dataod.</param>
+            <param name="datado">datado.</param>
+            <param name="imie">imie.</param>
+            <param name="nazwisko">nazwisko.</param>
+            <param name="sala">sala.</param>
+        </member>
+        <member name="M:Projekt.Rezerwacja.Clone">
+            <summary>Tworzy kopie klasy Rezerwacja</summary>
+            <returns>Nowy  niezalezny obiekt, powstaly przez sklonowaie (skopiowanie)  klasy Rezerwacja </returns>
+        </member>
+        <member name="M:Projekt.Rezerwacja.CompareTo(Projekt.Rezerwacja)">
+            <summary>
+            Porównuje  Nazwisko rezerwujacego z zmienna Nazwisko innego rezerwujaceo 
+            </summary>
+            <param name="other">Za porownanie odpowiedzialna jest klasa Rezerwacja </param>
+            <returns>
+            Wartość wskazująca  kolejność porównywanych rezerwujacych. 
+            Znaczenie: Wartosc ujemna -  To wystąpienie poprzedza inne w kolejności sortowania. 
+            Wartosc =0 występuje w tej samej pozycji .
+            Wartosc dodatnia - To wystąpienie następuje po innych w kolejności sortowania.
+            </returns>
+        </member>
+        <member name="M:Projekt.Rezerwacja.CompareToDataOd(Projekt.Rezerwacja)">
+            <summary>Porownuje daty rozpoczecia rezerwacji</summary>
+            <param name="other">Za porownanie odpowiedzialna jest klasa Rezerwacja.</param>
+        </member>
+        <member name="M:Projekt.Rezerwacja.CompareToDataDo(Projekt.Rezerwacja)">
+            <summary>Porownuje daty zakonczenia rezerwacji</summary>
+            <param name="other">Za porownanie odpowiedzialna jest klasa Rezerwacja.</param>
+        </member>
+        <member name="M:Projekt.Rezerwacja.Equals(Projekt.Rezerwacja)">
+            <summary>Okresla czy obiekty- informacje na temat rezerwacji- maja rowne wartosci</summary>
+            <param name="other">za  okreslenie obiektow odpowiedzialna jest klasa Rezerwacja</param>
+            <returns>
+              zwraca prawde lub falsz 
+            </returns>
+        </member>
+        <member name="M:Projekt.Rezerwacja.ToString">
+            <summary>konwertuje obiekty na ciag znakow reprezentujacych rezerwacje</summary>
+            <returns>
+              <see cref="T:System.String" /> -ciag znakow reprezentujacych rezerwacje</returns>
+        </member>
+        <member name="T:Projekt.Rezerwacje">
+            <summary>Klasa sluzaca do obslugi rezerwacji</summary>
+        </member>
+        <member name="P:Projekt.Rezerwacje.ListaRezerwacji">
+            <summary>Lista zawierajaca Rezerwacje</summary>
+            <value>lista rezerwacji.</value>
+        </member>
+        <member name="M:Projekt.Rezerwacje.#ctor">
+            <summary>Konstruktor, inicjuje nowe wystapienie danych dla klasy <see cref="T:Projekt.Rezerwacje" />
+            lista rezerwacji na podstawie klasy<see cref="T:Projekt.Rezerwacja" /></summary>
+        </member>
+        <member name="M:Projekt.Rezerwacje.DodajRezerwacje(Projekt.Rezerwacja)">
+            <summary>Funkcja dodajaca rezerwacje do listy, z klasy <seealso cref="T:Projekt.Rezerwacja" /></summary>
+            <param name="rez">rez, jako dodawana rezerwacja</param>
+            
+        </member>
+        <member name="M:Projekt.Rezerwacje.UsunRezerwacje(Projekt.Rezerwacja)">
+            <summary>Funkcja usuwajaca rezerwacje z listy</summary>
+            <param name="s"> s, jako usuwana rezerwacja</param>
+        </member>
+        <member name="M:Projekt.Rezerwacje.ToString">
+            <summary>konwertuje obiekty na ciag znakow reprezentujacych Liste rezerwacji</summary>
+            <returns> <see cref="T:System.String" /> cag znakow reprezentujacy Liste rezerwacji</returns>
+        </member>
+        <member name="M:Projekt.Rezerwacje.ZapiszXML(System.String)">
+            <summary>Zapisuje Rezerwacje do pliku XML</summary>
+            <param name="plik"></param>
+        </member>
+        <member name="M:Projekt.Rezerwacje.OdczytajXML(System.String)">
+            <summary>Odczytuje dane z pliku XML</summary>
+            <param name="plik">plik.</param>
+        </member>
+        <member name="M:Projekt.Rezerwacje.RezDlaSali(Projekt.Sala)">
+            <summary>sprawdza czy sala nie jest zarezerwowana, dopisuje do listy</summary>
+            <param name="s"> sala</param>
+        </member>
+        <member name="M:Projekt.Rezerwacje.Clone">
+            <summary>Tworzy nowe obiekty rezerwacji, dodaje do listy z poprzednimi rezerwacjami</summary>
+            <returns>liste z nowymi rezerwacjami </returns>
+        </member>
+        <member name="M:Projekt.Rezerwacje.Sortuj">
+            <summary>sortuje liste rezerwacji</summary>
+        </member>
+        <member name="M:Projekt.Rezerwacje.SortujPoDataOd">
+            <summary>Sortuje liste rezerwacji po dacie rozpoczecia</summary>
+        </member>
+        <member name="M:Projekt.Rezerwacje.SortujPoDataDo">
+            <summary>sortuj liste rezerwacji po dacie zakonczenia</summary>
+        </member>
+        <member name="T:Projekt.Wyposazenia">
+            <summary>
+            typ wyliczeniowy elementy informuja jakie wypsżenie znajduje sie w sali
+            </summary>
+        </member>
+        <member name="F:Projekt.Wyposazenia.brak">
+            <summary>brak wyposazenia w sali</summary>
+        </member>
+        <member name="F:Projekt.Wyposazenia.krzesla">
+            <summary>krzesla jako wyposazenie sali</summary>
+        </member>
+        <member name="F:Projekt.Wyposazenia.pelne">
+            <summary>pelne wyposazenie sali</summary>
+        </member>
+        <member name="T:Projekt.Budynki">
+            <summary>typ wyliczeniowy,  elementy opisuja nazwe budynkow w ktorych znajduje sie sala</summary>
+        </member>
+        <member name="T:Projekt.Sala">
+            <summary>klasa opisujaca sale, dziedziczy po klasie pomieszczenia</summary>
+        </member>
+        <member name="P:Projekt.Sala.Pojemnosc">
+            <summary>zawiera wlasciwosci o  sali</summary>
+            <value>pojemnosc.</value>
+        </member>
+        <member name="P:Projekt.Sala.NumerSali">
+            <summary>zawiera wlasciwosci numeru sali</summary>
+            <value> numer sali.</value>
+        </member>
+        <member name="P:Projekt.Sala.Cena">
+            <summary>zawiera wlasciwosci ceny sali</summary>
+            <value> cena.</value>
+        </member>
+        <member name="P:Projekt.Sala.Wyposazenie">
+            <summary>zawiera wlasciwosci wyposazenia sali</summary>
+            <value>wyposazenie.</value>
+        </member>
+        <member name="P:Projekt.Sala.KodSali">
+            <summary>zawiera wlasciwosci kodu sali</summary>
+            <value>kod sali.</value>
+        </member>
+        <member name="P:Projekt.Sala.Budynek">
+            <summary>zawiera wlasciwosci budynku w ktorym znajduje sie sala</summary>
+            <value>The budynek.</value>
+        </member>
+        <member name="M:Projekt.Sala.#ctor(System.Double,System.Int32)">
+            <summary>  inicjuje nowe zmienne opisujace sale, konstruktor klasy <see cref="T:Projekt.Sala" /> </summary>
+            <param name="metraz">metraz.</param>
+            <param name="pietro">pietro.</param>
+        </member>
+        <member name="M:Projekt.Sala.#ctor(System.Int32,System.Int32,Projekt.Budynki,Projekt.Wyposazenia,System.Double,System.Int32,System.Double)">
+            <summary>Konstruktor danych klasy  <see cref="T:Projekt.Sala" /></summary>
+            <param name="numersali">numersali.</param>
+            <param name="pietro">pietro.</param>
+            <param name="budynek">budynek.</param>
+            <param name="wyposazenie">wyposazenie.</param>
+            <param name="metraz">metraz.</param>
+            <param name="pojemnosc">pojemnosc.</param>
+            <param name="cena">cena.</param>
+        </member>
+        <member name="M:Projekt.Sala.ToString">
+            <summary>konwertuje obiekty na ciag znakow reprezentujacych sale</summary>
+            <returns>A <see cref="T:System.String" /> ciag znakow reprezentjacych sale</returns>
+        </member>
+        <member name="T:Projekt.Taknie">
+            <summary>Typ wyliczeniowy, elementy informuja "tak" lub "nie" czy dany sprzet znajduje sie w sali</summary>
+            <seealso cref="F:Projekt.Taknie.tak">jesli urzadzenie znajduje sie w sali</seealso>
+            <seealso cref="F:Projekt.Taknie.nie">jesli sala nie jest wyposazona w urzadzenie</seealso>
+        </member>
+        <member name="T:Projekt.SalaPremium">
+            <summary>
+            klasa opisujaca sale premium, dziedziczy po klasie Sala
+            </summary>
+        </member>
+        <member name="P:Projekt.SalaPremium.Projektor">
+            <summary>Zawiera dane o projektorze</summary>
+            <value> projektor.</value>
+        </member>
+        <member name="P:Projekt.SalaPremium.Glosniki">
+            <summary>Zawiera dane o glosnikach</summary>
+            <value> glosniki.</value>
+        </member>
+        <member name="P:Projekt.SalaPremium.Mikrofon">
+            <summary>zawiera dane o mikrofonie</summary>
+            <value>mikrofon</value>
+        </member>
+        <member name="P:Projekt.SalaPremium.Klimatyzacja">
+            <summary>zawiera dane o klimatyzacji</summary>
+            <value> klimatyzacja.</value>
+        </member>
+        <member name="P:Projekt.SalaPremium.Wifi">
+            <summary>zawiera dane o wifi</summary>
+            <value>wifi.</value>
+        </member>
+        <member name="M:Projekt.SalaPremium.#ctor(System.Int32,System.Int32,Projekt.Budynki,Projekt.Wyposazenia,System.Double,System.Int32,System.Double,Projekt.Taknie,Projekt.Taknie,Projekt.Taknie,Projekt.Taknie,Projekt.Taknie)">
+            <summary>konstruktor danych klasy SalaPremium</summary>
+            <param name="numersali"> numersali.</param>
+            <param name="pietro"> pietro.</param>
+            <param name="budynek"> budynek.</param>
+            <param name="wyposazenie"> wyposazenie.</param>
+            <param name="metraz"> metraz.</param>
+            <param name="pojemnosc"> pojemnosc.</param>
+            <param name="cena"> cena.</param>
+            <param name="projektor"> projektor.</param>
+            <param name="glosniki"> glosniki.</param>
+            <param name="mikrofon"> mikrofon.</param>
+            <param name="klimatyzacja"> klimatyzacja.</param>
+            <param name="wifi"> wifi.</param>
+        </member>
+        <member name="M:Projekt.SalaPremium.atrybuty">
+            <summary>atrybuty sali premikum</summary>
+            <returns>zwraca nazwe urzadzenia, jesli znajduje sie w sali  premium</returns>
+        </member>
+        <member name="M:Projekt.SalaPremium.ToString">
+            <summary>konwertuje obiekty na ciag znakow reprezentujacych sale premium</summary>
+            <returns>A <see cref="T:System.String" /> ciag znakow reprezentujacych sale premium.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Rezerwacje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaRezerwacji>
+    <Rezerwacja>
+      <DataOd>2020-12-23T00:00:00</DataOd>
+      <DataDo>2020-12-24T00:00:00</DataDo>
+      <Imie>Jakub</Imie>
+      <Nazwisko>Łaszczyk</Nazwisko>
+      <Kodzarezerwowanejsali>NORMAL/1/1/1</Kodzarezerwowanejsali>
+      <NumerRezerwacji>1</NumerRezerwacji>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DataOd>2020-12-25T00:00:00</DataOd>
+      <DataDo>2020-12-26T00:00:00</DataDo>
+      <Imie>Jakub</Imie>
+      <Nazwisko>Łaszczyk</Nazwisko>
+      <Kodzarezerwowanejsali>NORMAL/1/1/1</Kodzarezerwowanejsali>
+      <NumerRezerwacji>0</NumerRezerwacji>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DataOd>2022-12-29T00:00:00</DataOd>
+      <DataDo>2022-12-30T00:00:00</DataDo>
+      <Imie>Jakub</Imie>
+      <Nazwisko>Łaszczyk</Nazwisko>
+      <Kodzarezerwowanejsali>PREMIUM/3/2/1</Kodzarezerwowanejsali>
+      <NumerRezerwacji>4</NumerRezerwacji>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DataOd>2025-12-29T00:00:00</DataOd>
+      <DataDo>2025-12-30T00:00:00</DataDo>
+      <Imie>Jakub</Imie>
+      <Nazwisko>Łaszczyk</Nazwisko>
+      <Kodzarezerwowanejsali>NORMAL/4/2/2</Kodzarezerwowanejsali>
+      <NumerRezerwacji>2</NumerRezerwacji>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DataOd>2026-12-29T00:00:00</DataOd>
+      <DataDo>2026-12-30T00:00:00</DataDo>
+      <Imie>Jakub</Imie>
+      <Nazwisko>Łaszczyk</Nazwisko>
+      <Kodzarezerwowanejsali>PREMIUM/2/2/1</Kodzarezerwowanejsali>
+      <NumerRezerwacji>3</NumerRezerwacji>
+    </Rezerwacja>
+  </ListaRezerwacji>
+</Rezerwacje>
