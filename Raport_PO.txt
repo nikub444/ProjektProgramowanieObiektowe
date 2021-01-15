@@ -1,0 +1,25 @@
+Projekt dotyczy systemu rezerwacji sal w budynkach. Dzięki intuicyjnemu interfejsowi graficznemu użytkownik systemu w prosty sposób
+może przeglądać listę sal (filtrując interesujące go wyniki) oraz dodawać i przeglądać rezerwacje. Załączona dokumentacja opisuje
+najważniejsze funkcje w naszym projekcie. W kopleksie naszych budynków znajdują się sale oznaczone jako standardowe i premium- w zależności
+od wyposażenia i standardu sali. Użytkownik ma możliwośc rezerwacji sali na dowolną ilość dni na dowolne imie i naziwsko. System rezerwacji
+analizuje czy dana sala w interesującym klienta terminie jest wolna, jeśli jest zarezerwowana- uzytkownik systemu otrzyma odpowiedni 
+komunikat.
+Podział zadań: 
+Jakub Niedźwiecki:
+ Projekt UML,
+ Klasa abstrakcyjna(Pomieszczenie) oraz dziedzicząca klasa Sala, 
+ Wykorzystanie interfejsu IRezerwacje oraz IKompleksBudynkow,
+ Stworzenie testow jednostkowych
+ Stworzenie funkcji w klasie Rezerwacje
+Klaudia Leń:
+ Częsciowo GUI(część wizualna),
+ Stworzenie bazy sal oraz bazy rezerwacji oraz kontrola ich prawidłowego wczytywania, 
+ Funkcje sortujące,
+ Dokumentacja,
+ Funkcje w klasie kompleks budynków
+Jakub Łaszczyk:
+ Stworzenie klas dotyczących: sal, budynku, rezerwacji;
+ Częsciowo GUI(część funkcjonalna),
+ Wykorzystanie interfejsów Icloneable, Icomparable
+ Funkcje w klasie Rezerwacja
+ Serializacja XML
